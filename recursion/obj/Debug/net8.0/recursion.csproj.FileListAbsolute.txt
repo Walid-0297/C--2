@@ -1,0 +1,14 @@
+C:\Users\USER\CSharpFundamentals\recursion\bin\Debug\net8.0\recursion.exe
+C:\Users\USER\CSharpFundamentals\recursion\bin\Debug\net8.0\recursion.deps.json
+C:\Users\USER\CSharpFundamentals\recursion\bin\Debug\net8.0\recursion.runtimeconfig.json
+C:\Users\USER\CSharpFundamentals\recursion\bin\Debug\net8.0\recursion.dll
+C:\Users\USER\CSharpFundamentals\recursion\bin\Debug\net8.0\recursion.pdb
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\recursion.AssemblyInfoInputs.cache
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\recursion.AssemblyInfo.cs
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\recursion.dll
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\refint\recursion.dll
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\recursion.pdb
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\recursion.genruntimeconfig.cache
+C:\Users\USER\CSharpFundamentals\recursion\obj\Debug\net8.0\ref\recursion.dll
